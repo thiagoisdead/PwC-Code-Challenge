@@ -1,4 +1,4 @@
-package code.challenge.v1;
+package code.challenge;
 
 
 import java.util.Arrays;
