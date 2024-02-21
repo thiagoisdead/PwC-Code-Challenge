@@ -21,14 +21,14 @@ Desafio de código proposto pela empresa PwC, para conquista de vaga de estágio
 - **Entrada:** 
   - “Rio Branco 23” - “Quirino dos Santos 23 b”
   - 
-- **Ação que faz:** Separa nomes e números, Separados por diversos espaços.
+- **Ação que faz:** Separa nomes e números, separados por diversos espaços.
   
 - **Saída:**
 - 
   - ‘Rua: Rio Branco, Número: 23’
   - ‘Rua: Quirino dos Santos, Número: 23 b’
 
-### Casos omplexos):
+### Casos Complexos):
 
 - **Entrada:** 
   - “4, Rue de la République” - “100 Broadway Av” - “Calle Sagasta, 26” - “Calle 44 No 1991”
