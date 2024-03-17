@@ -1,5 +1,5 @@
-# PwC-Code-Challenge
-Desafio de código proposto pela empresa PwC, para conquista de vaga de estágio.
+# Code-Challenge
+Desafio de código proposto, para conquista de vaga de estágio.
 
 ## Casos de teste 
 
