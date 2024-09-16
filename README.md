@@ -18,8 +18,7 @@
 ### Casos mais complicados:
 
 - **Entrada:** 
-  - “Rio Branco 23” - “Quirino dos Santos 23 b”
-  - 
+  - “Rio Branco 23” - “Quirino dos Santos 23 b” 
 - **Ação que faz:** Separa nomes e números, separados por diversos espaços.
   
 - **Saída:**
